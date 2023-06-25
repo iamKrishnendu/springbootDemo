@@ -1,4 +1,4 @@
-package com.springboot.learning.springbootDemo.service;
+package com.springboot.learning.springbootDemo.src.service;
 
 import com.springboot.learning.springbootDemo.src.model.ItemModel;
 import com.springboot.learning.springbootDemo.src.repository.ItemRepository;

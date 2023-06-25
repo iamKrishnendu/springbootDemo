@@ -1,6 +1,6 @@
 package com.springboot.learning.springbootDemo.src.controller;
 
-import com.springboot.learning.springbootDemo.service.ItemServiceImpl;
+import com.springboot.learning.springbootDemo.src.service.ItemServiceImpl;
 import com.springboot.learning.springbootDemo.src.model.ItemModel;
 import lombok.AllArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
